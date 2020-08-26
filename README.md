@@ -37,7 +37,4 @@ In order to transform the public data and use it in our study we performed the f
 
 ## Load
 The last step was to transfer our final output into a Database. We created a database and respective table to match the columns from the final Panda's Data Frame using Postgres database using PG admin to store our original clean data sets. We reconnected to the database and generated additional tables for the data frames. 
-<<<<<<< HEAD
 
-=======
->>>>>>> 9a0de7d69d12ccc2b3c5e6a535c7c776ae847e17
