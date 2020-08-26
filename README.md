@@ -23,7 +23,7 @@ Also I used HTML tables from following sites:
 
 The tables include the following informaion:
 *   Percentage of population with gun permit by State
-*   2016 Murder statics - weapon used
+*   Weapon used in murder 2016
 
 ## Transformation 
 
