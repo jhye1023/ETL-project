@@ -29,15 +29,17 @@ The tables include the following informaion:
 
 In order to transform the public data and use it in our study we performed the following:
 
-* Used Pandas functions in Jupyter Notebook to load all four CSV files and web scrapping to get the HTML tables.
+For datasets from Gun Violence Archive website:
+* Used Pandas functions in Jupyter Notebook to load all four CSV files.
 * Reviewed the files and transformed into data frames.
-* Removed the operator’s column and the address column due to missing information which was not relevant to the focus of this study.
-* Identified duplicates by doing an inner merge on the incident id column across all data sets.
-* Created queries to address our hypothesis by grouping the data by state and getting the sum of the number of people killed and the number of people injured. We sorted the data in descending order so we could visually see which state had the highest numbers.
+* Filtered data for 2019, and removed columns (address, injured, etc.) which were not    relevant to the focus of this study.
+* Merged on the state column across all data sets. 
+* Created queries by grouping the data by state and getting the sum of the number of people killed. We sorted the data in descending order so we could visually see which state had the highest numbers.
+
+For the web scrapping from HTML tables:
+* Used Pandas functions in Jupyter Notebook to get HTML tables. 
+* 
 
 ## Load
 The last step was to transfer our final output into a Database. We created a database and respective table to match the columns from the final Panda's Data Frame using Postgres database using PG admin to store our original clean data sets. We reconnected to the database and generated additional tables for the data frames. 
-<<<<<<< HEAD
 
-=======
->>>>>>> 9a0de7d69d12ccc2b3c5e6a535c7c776ae847e17
