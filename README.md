@@ -58,3 +58,9 @@ The following states have the highest number of minors killed by guns
 
 The following states have the highest percentage of gun carry.
 
+1. Alabama
+2. Indiana
+3. South Dakota
+4. Pennsylvania
+5. Georgia
+
