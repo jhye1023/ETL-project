@@ -29,7 +29,7 @@ The tables include the following informaion:
 
 ## Transformation 
 
-
+Clean and structure the data in desired form.
 
 In order to transform the public data and use it in our study we performed the following:
 
