@@ -48,11 +48,13 @@ The last step was to transfer our final output into a Database. We created a dat
 
 ## Summary
 
-Following states while these states have the highest number minor killed by gun.
+The following states have the highest number of minors killed by guns
 
 1. Texas
 2. California
 3. Pennsylvania
 4. Florida
 5. Illinois
+
+The following states have the highest percentage of gun carry.
 
