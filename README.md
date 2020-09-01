@@ -46,3 +46,6 @@ For the web scrapping from HTML tables:
 ## Load
 The last step was to transfer our final output into a Database. We created a database and respective table to match the columns from the final Panda's Data Frame using Postgres database using PG admin to store our original clean data sets. We reconnected to the database and generated additional tables for the data frames. 
 
+## Summary
+
+
