@@ -4,11 +4,7 @@
 
 CREATE TABLE "gun_violance" (
     "State" VARCHAR   NOT NULL,
-    "Children_Killed" integer   NOT NULL,
-    "Teen_Killed" integer   NOT NULL,
-    "Acci_Child_Killed" integer   NOT NULL,
-    "Acci_Teen_Killed" integer   NOT NULL,
-    "Total_Killed" integer   NOT NULL
+    "Total_Killed" VARCHAR   NOT NULL
 );
 
 CREATE TABLE "guntocarry" (
@@ -16,10 +12,4 @@ CREATE TABLE "guntocarry" (
     "Population_perc" VARCHAR   NOT NULL
 );
 
-CREATE TABLE "weapon_used" (
-    "State" VARCHAR   NOT NULL,
-    "Total_murders" VARCHAR   NOT NULL,
-    "Total_firearms" VARCHAR   NOT NULL,
-    "Total_Weapon_Used" VARCHAR   NOT NULL
-);
 
