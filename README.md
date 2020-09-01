@@ -32,11 +32,10 @@ For datasets from Gun Violence Archive website:
 * Reviewed the files and transformed into data frames.
 * Filtered data for 2019, and removed columns (address, injured, etc.) which were not    relevant to the focus of this study.
 * Merged on the state column across all data sets. 
-* Created queries by grouping the data by state and getting the sum of the number of people killed. We sorted the data in descending order so we could visually see which state had the highest numbers.
+* Created queries by grouping the data by state and getting the sum of the number of people killed and sorted the data in descending order so we could visually see which state had the highest numbers.
 
 For the web scrapping from HTML tables:
 * Used Pandas functions in Jupyter Notebook to get HTML tables. 
-* 
 
 ## Load
 The last step was to transfer our final output into a Database. We created a database and respective table to match the columns from the final Panda's Data Frame using Postgres database using PG admin to store our original clean data sets. We reconnected to the database and generated additional tables for the data frames. 
