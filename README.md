@@ -1,5 +1,9 @@
-# ETL-project
+# ETL-Project
+This project is finding out the relationship between the number of minor killed by a gun and the number of people who carries a gun using ETL.
 
+## Extract
+
+Read the data, often form mutiple data sources. 
 
 I used 4 different datasets from the public platform Kaggle which lead me to the Gun Violence Archive website (https://www.gunviolencearchive.org). 
 The data in the four files included the following information:
@@ -7,7 +11,7 @@ The data in the four files included the following information:
 *	Children killed
 *	Teen killed
 *	Accidental deaths (Children Ages 0-11)
-*   Accidental deaths (Teens Ages 12-17)
+* Accidental deaths (Teens Ages 12-17)
 
 The fields of interest include the following:
 
@@ -24,6 +28,8 @@ The tables include the following informaion:
 *   Percentage of population with gun permit by State
 
 ## Transformation 
+
+
 
 In order to transform the public data and use it in our study we performed the following:
 
