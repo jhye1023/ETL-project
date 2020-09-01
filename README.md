@@ -64,3 +64,4 @@ The following states have the highest percentage of gun carry.
 4. Pennsylvania
 5. Georgia
 
+Pennsylvania was the only state on lists that overlapped, and the correlation between the death rate and gun possession rate of the minors was hard to find here.
