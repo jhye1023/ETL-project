@@ -17,13 +17,11 @@ The fields of interest include the following:
 *	Number killed
 *	Number injured
  
-Also I used HTML tables from following sites:
+Also I used HTML tables from following site:
 *   https://www.gunstocarry.com/concealed-carry-statistics/#numbers
-*   https://woocommerce-262453-958953.cloudwaysapps.com/concealed-carry-statistics/concealed-carry-statistics-fbi\
 
 The tables include the following informaion:
 *   Percentage of population with gun permit by State
-*   Weapon used in murder 2016
 
 ## Transformation 
 
